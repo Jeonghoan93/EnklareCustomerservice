@@ -1,7 +1,7 @@
 <template>
   <div class="home-container">
     <div class="welcome-message">
-      <h1>Boost your Productivity with <span>AI</span></h1>
+      <h1>Automate <span>work</span></h1>
       <h2>
         Slash Your Enterprise's HR and Customer Service Costs by up to 60%
       </h2>
